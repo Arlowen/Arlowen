@@ -1,33 +1,3 @@
-<p align="center">
-  <a href="#english">English</a> · <a href="#中文">中文</a>
-</p>
-
----
-
-## English
-
-# YaLei (Arlowen) 👋
-
-Java / Backend Engineer · Data Integration (CDC) · DevOps
-
-- 🔭 : Database CDC, data pipelines, SaaS backend, system reliability
-- 🌱 : CSS / Frontend / Product design / Game dev
-- 💬 : Java, Spring Boot, MyBatis, Docker, MySQL/Oracle/Dameng
-
-## 🧩 Tech Stack
-**Backend:** Java, Spring Boot, MyBatis(-Plus), Flyway  
-**DB:** MySQL, PostgreSQL, Oracle, Dameng, MongoDB  
-**Infra:** Docker/Compose, Linux, CI/CD  
-**Frontend (learning):** CSS, React/Vue
-
-## 📫 Contact
-- Email: your@email.com
-- Website: (optional)
-
----
-
-## 中文
-
 # YaLei（Arlowen）👋
 
 Java / 后端工程师 · 数据集成（CDC）· DevOps
