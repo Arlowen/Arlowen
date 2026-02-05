@@ -1,4 +1,4 @@
-# YaLei（Arlowen）👋
+# YaLei（Arlowen）
 
 Java / 后端工程师 · 数据集成（CDC）· DevOps
 
