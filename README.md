@@ -1,8 +1,7 @@
 # YaLei（Arlowen）
-YaLei：让我们享受当下的美好！
 
 Dream Job：
-- 数字游牧人
+- 💻：数字游牧人
 
 Vibe Coding 工程师
 
